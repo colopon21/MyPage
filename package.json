@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mypage",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colopon21/MyPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colopon21/MyPage/issues"
+  },
+  "homepage": "https://github.com/colopon21/MyPage#readme",
+  "description": ""
+}
